@@ -1,0 +1,5 @@
+name: Dylan_Low_project
+channels:
+  - defaults
+  - conda-forge
+prefix: /home/arjuna/miniconda3/envs/Dylan_Low_project

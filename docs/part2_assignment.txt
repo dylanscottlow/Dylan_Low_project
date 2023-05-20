@@ -1,0 +1,7 @@
+(base) arjuna@Arjuna:/mnt/d/Users/Arjuna/documents/GitHub/Dylan_Low_project$ python
+Python 3.10.10 (main, Mar 21 2023, 18:45:11) [GCC 11.2.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import src.helloworld
+hello world
+>>> exit()
+(base) arjuna@Arjuna:/mnt/d/Users/Arjuna/documents/GitHub/Dylan_Low_project$
